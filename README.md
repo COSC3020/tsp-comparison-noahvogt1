@@ -1,5 +1,7 @@
 # Traveling Salesperson Problem -- Empirical Analysis
 
+I notice that the plagarism test is not on this; however, I will still put my sources used for this. I had a lot of help from chatGPT with creating these graphs for the my implimentations of these algorithms. I also had help with the code that draws the graph that I have a couple pngs of. I also had help with the timing code because I didn't know a good timer in javascript.
+
 For this exercise, you'll need to take the code from the TSP Held-Karp and TSP
 Local Search exercises. This can be your own implementation or somebody else's.
 You will now do an empirical analysis of the implementations, comparing their
